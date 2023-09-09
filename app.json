@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "comidas-tipicas",
+    "slug": "comidas-tipicas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "comidas-tipicas"
+}
